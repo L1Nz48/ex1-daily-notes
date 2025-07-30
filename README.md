@@ -1,1 +1,1 @@
-# ex1-daily-notes
+# ex10-daily-notes
